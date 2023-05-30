@@ -1,0 +1,45 @@
+.footer {
+    background-color: black;
+    padding: 56px 0;
+}
+
+.footer_heeding {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: start;
+}
+
+.footer_p {
+    width: 320px;
+    color: white;
+    text-align: start;
+}
+
+.saytpage {
+    margin-left: 180px;
+}
+
+.sahifalar {
+    text-align: start;
+}
+
+.items {
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+
+.items:hover {
+    display: block;
+    color: white;
+}
+
+.socials {
+    text-align: start;
+    margin-left: 180px;
+}
+
+.social_img {
+    width: 22px;
+}

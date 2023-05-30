@@ -1,0 +1,49 @@
+.signup {
+    width: 348px;
+    height: 314px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin: 24px auto 0 auto;
+}
+
+
+.input {
+    background-color: #f3f3f3;
+    color: #000000;
+    width: 300px;
+    height: 56px;
+    padding: 16px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    margin: 24px auto 24px auto;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.select-item {
+    background-color: #f3f3f3;
+    margin: 0 auto 24px auto;
+    width: 300px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    height: 56px;
+}
+
+.signup_href,
+.signup_href:hover {
+    font-weight: 700;
+    font-size: 16px;
+    background: #00BAFC;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+}

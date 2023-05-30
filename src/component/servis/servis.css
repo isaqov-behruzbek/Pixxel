@@ -1,0 +1,26 @@
+.servis{
+    padding: 56px 0;
+}
+.servis_p{
+    width: 719px;
+    margin: 16px auto;
+}
+.servis_heeding{
+        font-weight:  700;
+        font-size:  24px;
+        text-align: center;
+}
+.servis_href,.servis_href:hover{
+    font-weight:  700;
+    font-size:  16px;
+    background: #00BAFC;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+.servic_ondecoration{
+    font-size: 16px;
+    color: #00BAFC;
+    padding: 8px 16px;
+}

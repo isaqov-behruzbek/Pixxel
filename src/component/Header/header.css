@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    margin: 0;
+}
+
+.item {
+    margin-left: 32px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+.tel_btn,.tel_btn:hover{
+    text-decoration: none;
+    color: white;
+    background: #00BAFC;
+    border-radius: 5px;
+    padding: 8px 16px;
+}

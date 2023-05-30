@@ -1,0 +1,21 @@
+.work{
+    padding: 56px 0;
+}
+.work_heeding{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+.work_p{
+    width: 719px;
+    margin: 16px auto;
+}
+.work_href,.work_href:hover {
+    font-weight: 700;
+    font-size: 16px;
+    background: #00BAFC;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+}

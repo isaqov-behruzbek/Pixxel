@@ -1,0 +1,21 @@
+.hero_container{
+    display: flex;
+    text-align: left;
+    margin-top: 97px;
+    justify-content: space-between;
+}
+.hero-left{
+    width: 470px;
+    
+}
+.hero_text{
+    font-size: 30px;
+    font-weight: 700;
+}
+.hero_btn,.hero_btn:hover{
+    text-decoration: none;
+    color: white;
+    background: #00BAFC;
+    border-radius: 5px;
+    padding: 8px 16px;
+}

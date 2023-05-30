@@ -1,0 +1,12 @@
+.cards{
+    padding: 24px;
+    width: 320px;
+    height: 260px;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.card_heeding{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
+
+}

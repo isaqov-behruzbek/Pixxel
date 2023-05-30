@@ -1,0 +1,18 @@
+.job-left{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.job_texts{
+    padding: 56px 0;
+    margin-left: 50px;
+}
+.job-img{
+    width: 300px;
+}
+.job_heeding{
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    justify-content: start;
+}

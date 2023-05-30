@@ -1,0 +1,16 @@
+.place{
+    width: 100%;
+    padding: 56px 0;
+    background-color: #00BAFC;
+}
+.place_heeding{
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+
+}
+.place_p{
+    width: 719px;
+    margin: 16px auto;
+    color: white;
+}
